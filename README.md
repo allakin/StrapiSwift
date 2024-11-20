@@ -1,8 +1,5 @@
 # StrapiSwift - A Swift toolkit to connect to your Strapi backend
 
-[![License](https://img.shields.io/cocoapods/l/StrapiSwift.svg?style=flat)](http://cocoadocs.org/docsets/StrapiSwift)
-[![Platform](https://img.shields.io/cocoapods/p/StrapiSwift.svg?style=flat)](http://cocoadocs.org/docsets/StrapiSwift)
-
 This project was built to make it easier to connect your app to your `Strapi` backend, the open source Headless CMS Front-End Developers love, see more at [https://strapi.io/](https://strapi.io/)
 
 ## Setup
