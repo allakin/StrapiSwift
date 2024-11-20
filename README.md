@@ -418,16 +418,6 @@ let request = FetchRequest(
 )
 ```
 
-## Thanks 👍
-
-The creation of this framework was possible thanks to these awesome people:
-
-* Gray Company: [https://www.graycompany.com.br/](https://www.graycompany.com.br/)
-* Strapi: [https://strapi.io/](https://strapi.io/)
-* Swift by Sundell: [https://www.swiftbysundell.com/](https://www.swiftbysundell.com/)
-* Hacking with Swift: [https://www.hackingwithswift.com/](https://www.hackingwithswift.com/)
-* Ricardo Rauber: [http://ricardorauber.com/](http://ricardorauber.com/)
-
 ## Feedback is welcome
 
 If you notice any issue, got stuck or just want to chat feel free to create an issue. We will be happy to help you.
