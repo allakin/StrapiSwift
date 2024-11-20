@@ -1,6 +1,5 @@
 # StrapiSwift - A Swift toolkit to connect to your Strapi backend
 
-[![CocoaPods Version](https://img.shields.io/cocoapods/v/StrapiSwift.svg?style=flat)](http://cocoadocs.org/docsets/StrapiSwift)
 [![License](https://img.shields.io/cocoapods/l/StrapiSwift.svg?style=flat)](http://cocoadocs.org/docsets/StrapiSwift)
 [![Platform](https://img.shields.io/cocoapods/p/StrapiSwift.svg?style=flat)](http://cocoadocs.org/docsets/StrapiSwift)
 
